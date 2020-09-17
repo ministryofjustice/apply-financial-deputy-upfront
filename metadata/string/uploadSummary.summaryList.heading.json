@@ -1,0 +1,7 @@
+{
+  "_id": "uploadSummary.summaryList.heading",
+  "_type": "string",
+  "description": "Upload another COP4",
+  "multiline": false,
+  "value": "{fake_variable}"
+}

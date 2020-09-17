@@ -1,0 +1,7 @@
+{
+  "_id": "uploadSummary.radios.legend",
+  "_type": "string",
+  "description": "Upload another form",
+  "multiline": false,
+  "value": "Do you want to upload another form?"
+}
