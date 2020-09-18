@@ -22,6 +22,7 @@
         {
           "_id": "page.those-not-served--fieldset--textarea.auto_name__8",
           "_type": "textarea",
+          "hint": "Give as much detail as you can",
           "label": "Why weren't you able to serve the respondent?",
           "name": "auto_name__8"
         }
