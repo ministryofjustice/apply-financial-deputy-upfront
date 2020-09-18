@@ -3,6 +3,15 @@
   "_type": "page.form",
   "components": [
     {
+      "_id": "page.pba-number--content",
+      "_type": "content",
+      "html": "### Amount to pay\r\n£50.00"
+    },
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.pba-number--text.auto_name__1",
       "_type": "text",
       "errors": {
@@ -15,9 +24,13 @@
       "name": "account-number"
     },
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.pba-number--text.auto_name__2",
       "_type": "text",
-      "hint": "",
+      "hint": "This will appear on your statement to help identify this payment",
       "label": "Reference (optional)",
       "name": "reference",
       "validation": {
