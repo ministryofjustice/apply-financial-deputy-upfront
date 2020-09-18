@@ -21,6 +21,7 @@
     "page.consent",
     "page.serve-respondents",
     "page.those-not-served",
+    "page.confirmation",
     "page.check-answers",
     "page.application-sent"
   ],
