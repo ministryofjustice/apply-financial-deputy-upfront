@@ -36,5 +36,10 @@
       "repeatableMaximum": 10
     }
   ],
+  "show": {
+    "identifier": "auto_name__9",
+    "operator": "is",
+    "value": "auto_value__5"
+  },
   "url": "those-not-served"
 }
