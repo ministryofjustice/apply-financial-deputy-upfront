@@ -16,7 +16,7 @@
           "_id": "page.those-not-served--fieldset--text.auto_name__7",
           "_type": "text",
           "hint": "The person who might lack mental capacity to make decisions at the time they need to be made",
-          "label": "Relationship to the person",
+          "label": "Respondent's relationship to the person",
           "name": "auto_name__7"
         },
         {
