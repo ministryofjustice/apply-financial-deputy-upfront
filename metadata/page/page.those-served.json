@@ -52,12 +52,12 @@
           "name": "auto_name__5"
         }
       ],
-      "legend": "Respondent details",
+      "legend": "{}",
       "namespace": "namespace_auto__1",
       "repeatable": true,
       "repeatableAdd": "Add another respondent",
       "repeatableDelete": "Remove respondent ",
-      "repeatableHeading": "Details of those you've served",
+      "repeatableHeading": "Details of the people you have been able to serve or notify",
       "repeatableMaximum": 10
     }
   ],

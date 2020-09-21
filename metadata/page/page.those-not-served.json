@@ -16,23 +16,23 @@
           "_id": "page.those-not-served--fieldset--text.auto_name__7",
           "_type": "text",
           "hint": "The person who might lack mental capacity to make decisions at the time they need to be made",
-          "label": "Respondent's relationship to the person",
+          "label": "Relationship to the person",
           "name": "auto_name__7"
         },
         {
           "_id": "page.those-not-served--fieldset--textarea.auto_name__8",
           "_type": "textarea",
           "hint": "Give as much detail as you can",
-          "label": "Why weren't you able to serve the respondent?",
+          "label": "Why weren't you able to serve or notify the person?",
           "name": "auto_name__8"
         }
       ],
-      "legend": "Respondent details",
+      "legend": "Person to be served or notified",
       "namespace": "namespace_auto__2",
       "repeatable": true,
-      "repeatableAdd": "Add another respondent",
-      "repeatableDelete": "Remove respondent",
-      "repeatableHeading": "Details of those you haven't been able to serve",
+      "repeatableAdd": "Add another person",
+      "repeatableDelete": "Remove person",
+      "repeatableHeading": "Details of the people you were unable to serve or notify",
       "repeatableMaximum": 10
     }
   ],
