@@ -5,6 +5,7 @@
     {
       "_id": "page.consent--upload.auto_name__1",
       "_type": "upload",
+      "hint": "You can upload more than one COP5 consent form",
       "label": "Upload your completed consent form (COP5)",
       "maxFiles": 10,
       "minFiles": 1,
