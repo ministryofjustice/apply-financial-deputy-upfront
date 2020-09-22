@@ -22,7 +22,7 @@
         {
           "_id": "page.those-not-served--fieldset--textarea.auto_name__8",
           "_type": "textarea",
-          "hint": "Give as much detail as you can",
+          "hint": "Give as much detail as you can, including any steps you took to try serving or notifying all people with an interest in the application",
           "label": "Why weren't you able to serve or notify the person?",
           "name": "auto_name__8"
         }
@@ -32,7 +32,7 @@
       "repeatable": true,
       "repeatableAdd": "Add another person",
       "repeatableDelete": "Remove person",
-      "repeatableHeading": "Details of the people you were unable to serve or notify",
+      "repeatableHeading": "People you haven't been able to serve or notify",
       "repeatableMaximum": 10
     }
   ],

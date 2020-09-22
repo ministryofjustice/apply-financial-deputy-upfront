@@ -57,7 +57,7 @@
       "repeatable": true,
       "repeatableAdd": "Add another respondent",
       "repeatableDelete": "Remove respondent ",
-      "repeatableHeading": "The people you have served or notified about the application",
+      "repeatableHeading": "People you have served or notified about the application",
       "repeatableMaximum": 10
     }
   ],
