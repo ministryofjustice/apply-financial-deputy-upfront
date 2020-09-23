@@ -13,20 +13,20 @@
             "_id": "page.person-views--radios.auto_name__10--radio.auto_value__6--textarea.auto_name__11",
             "_type": "textarea",
             "label": "Give as much detail as you can",
-            "name": "auto_name__11"
+            "name": "person-view-details"
           },
           "label": "Yes",
-          "value": "auto_value__6"
+          "value": "yes"
         },
         {
           "_id": "page.person-views--radios.auto_name__10--radio.auto_value__7",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__7"
+          "value": "no"
         }
       ],
       "legend": "Has the person who might lack mental capacity given their views on the application?",
-      "name": "auto_name__10"
+      "name": "person-views"
     }
   ],
   "url": "person-views"

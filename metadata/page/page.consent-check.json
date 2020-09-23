@@ -2,5 +2,5 @@
   "_id": "page.consent-check",
   "_type": "page.uploadCheck",
   "heading": "Check your completed acknowledgement of service or notification (COP5) upload",
-  "url": "consent-check"
+  "url": "/check-cop5-upload"
 }
