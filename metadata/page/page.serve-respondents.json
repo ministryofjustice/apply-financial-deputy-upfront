@@ -10,17 +10,17 @@
           "_id": "page.serve-respondents--radios.auto_name__9--radio.auto_value__4",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__4"
+          "value": "yes"
         },
         {
           "_id": "page.serve-respondents--radios.auto_name__9--radio.auto_value__5",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__5"
+          "value": "no"
         }
       ],
       "legend": "Was there anyone you were not able to serve or notify?",
-      "name": "auto_name__9"
+      "name": "not-served-notified"
     }
   ],
   "url": "serve-notify-issue"

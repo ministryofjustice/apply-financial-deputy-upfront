@@ -10,21 +10,21 @@
           "_id": "page.those-not-served--fieldset--text.auto_name__6",
           "_type": "text",
           "label": "Name",
-          "name": "auto_name__6"
+          "name": "person-not-served-name"
         },
         {
           "_id": "page.those-not-served--fieldset--text.auto_name__7",
           "_type": "text",
           "hint": "",
           "label": "Relationship to the person who might lack mental capacity",
-          "name": "auto_name__7"
+          "name": "person-not-served-relationship"
         },
         {
           "_id": "page.those-not-served--fieldset--textarea.auto_name__8",
           "_type": "textarea",
           "hint": "Give as much detail as you can, including any steps you've taken to try serving or notifying this person",
           "label": "Why weren't you able to serve or notify the person?",
-          "name": "auto_name__8"
+          "name": "not-served-reason"
         }
       ],
       "legend": "Person to be served or notified",
@@ -37,9 +37,9 @@
     }
   ],
   "show": {
-    "identifier": "auto_name__9",
+    "identifier": "not-served-notified",
     "operator": "is",
-    "value": "auto_value__4"
+    "value": "yes"
   },
   "url": "people-not-served"
 }

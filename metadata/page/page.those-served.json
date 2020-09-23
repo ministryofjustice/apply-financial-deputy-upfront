@@ -14,7 +14,7 @@
           "_id": "page.those-served--fieldset--text.auto_name__2",
           "_type": "text",
           "label": "Name",
-          "name": "auto_name__2"
+          "name": "person-served-name"
         },
         {
           "$component": true,
@@ -25,7 +25,7 @@
           "_type": "text",
           "hint": "",
           "label": "Relationship to the person who might lack mental capacity",
-          "name": "auto_name__3"
+          "name": "person-served-relationship"
         },
         {
           "$component": true,
@@ -35,7 +35,7 @@
           "_id": "page.those-served--fieldset--date.auto_name__4",
           "_type": "date",
           "legend": "Date served or notified",
-          "name": "auto_name__4"
+          "name": "date-served"
         },
         {
           "$component": true,
@@ -51,7 +51,7 @@
               "_id": "page.those-served--fieldset--radios.auto_name__5--radio.auto_value__1",
               "_type": "radio",
               "label": "Yes",
-              "value": "auto_value__1"
+              "value": "yes"
             },
             {
               "$component": true,
@@ -60,7 +60,7 @@
               "_id": "page.those-served--fieldset--radios.auto_name__5--radio.auto_value__2",
               "_type": "radio",
               "label": "No",
-              "value": "auto_value__2"
+              "value": "no"
             },
             {
               "$component": true,
@@ -69,11 +69,11 @@
               "_id": "page.those-served--fieldset--radios.auto_name__5--radio.auto_value__3",
               "_type": "radio",
               "label": "They have not responded",
-              "value": "auto_value__3"
+              "value": "no-response"
             }
           ],
           "legend": "Does the person who was served or notified support the application?",
-          "name": "auto_name__5"
+          "name": "support-application"
         }
       ],
       "legend": "Person served or notified",
