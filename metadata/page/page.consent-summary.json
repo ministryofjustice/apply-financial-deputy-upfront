@@ -2,5 +2,5 @@
   "_id": "page.consent-summary",
   "_type": "page.uploadSummary",
   "heading": "Your acknowledgement of service or notification (COP5) uploads",
-  "url": "cop5-upload-summary"
+  "url": "/cop5-upload-summary"
 }
