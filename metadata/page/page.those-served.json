@@ -22,7 +22,7 @@
         {
           "_id": "page.those-served--fieldset--date.auto_name__4",
           "_type": "date",
-          "legend": "Date served",
+          "legend": "Date served or notified",
           "name": "auto_name__4"
         },
         {
