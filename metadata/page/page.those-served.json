@@ -58,6 +58,7 @@
       "repeatableAdd": "Add another person",
       "repeatableDelete": "Remove person",
       "repeatableHeading": "People you have served and notified about the application",
+      "repeatableLede": "The court might contact any of the people you've listed to confirm that you've served or notified them.",
       "repeatableMaximum": 10
     }
   ],
