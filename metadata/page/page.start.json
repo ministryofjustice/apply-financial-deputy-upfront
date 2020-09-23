@@ -6,7 +6,7 @@
   "lede": "",
   "steps": [
     "page.person-details--2",
-    "page.email-address",
+    "page.applicant-name-email",
     "page.pba-number",
     "page.those-served",
     "page.consent",
