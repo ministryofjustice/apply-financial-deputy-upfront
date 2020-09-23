@@ -21,11 +21,11 @@
       "_id": "page.confirmation--date.auto_name__11",
       "_type": "date",
       "hint": "",
-      "legend": "Date",
+      "legend": "Today's date",
       "name": "auto_name__11"
     }
   ],
-  "heading": "Confirmation of service and notification",
+  "heading": "Statement of truth",
   "lede": "",
   "url": "confirmation"
 }
