@@ -7,12 +7,20 @@
       "_type": "fieldset",
       "components": [
         {
+          "$component": true,
+          "$control": true,
+          "$definition": true,
+          "$field": true,
           "_id": "page.those-served--fieldset--text.auto_name__2",
           "_type": "text",
           "label": "Name",
           "name": "auto_name__2"
         },
         {
+          "$component": true,
+          "$control": true,
+          "$definition": true,
+          "$field": true,
           "_id": "page.those-served--fieldset--text.auto_name__3",
           "_type": "text",
           "hint": "",
@@ -20,28 +28,44 @@
           "name": "auto_name__3"
         },
         {
+          "$component": true,
+          "$control": true,
+          "$definition": true,
+          "$fields": true,
           "_id": "page.those-served--fieldset--date.auto_name__4",
           "_type": "date",
           "legend": "Date served or notified",
           "name": "auto_name__4"
         },
         {
+          "$component": true,
+          "$control": true,
+          "$definition": true,
           "_id": "page.those-served--fieldset--radios.auto_name__5",
           "_type": "radios",
           "items": [
             {
+              "$component": true,
+              "$definition": true,
+              "$option": true,
               "_id": "page.those-served--fieldset--radios.auto_name__5--radio.auto_value__1",
               "_type": "radio",
               "label": "Yes",
               "value": "auto_value__1"
             },
             {
+              "$component": true,
+              "$definition": true,
+              "$option": true,
               "_id": "page.those-served--fieldset--radios.auto_name__5--radio.auto_value__2",
               "_type": "radio",
               "label": "No",
               "value": "auto_value__2"
             },
             {
+              "$component": true,
+              "$definition": true,
+              "$option": true,
               "_id": "page.those-served--fieldset--radios.auto_name__5--radio.auto_value__3",
               "_type": "radio",
               "label": "They have not responded",
@@ -50,33 +74,6 @@
           ],
           "legend": "Does the person who was served or notified support the application?",
           "name": "auto_name__5"
-        },
-        {
-          "_id": "page.those-served--fieldset--radios.auto_name__12",
-          "_type": "radios",
-          "items": [
-            {
-              "_id": "page.those-served--fieldset--radios.auto_name__12--radio.auto_value__6",
-              "_type": "radio",
-              "conditionalComponent": {
-                "_id": "page.those-served--fieldset--radios.auto_name__12--radio.auto_value__6--textarea.auto_name__13",
-                "_type": "textarea",
-                "hint": "",
-                "label": "Give as much detail as you can",
-                "name": "auto_name__13"
-              },
-              "label": "Yes",
-              "value": "auto_value__6"
-            },
-            {
-              "_id": "page.those-served--fieldset--radios.auto_name__12--radio.auto_value__7",
-              "_type": "radio",
-              "label": "No",
-              "value": "auto_value__7"
-            }
-          ],
-          "legend": "Has the person who might lack mental capacity given their views on the application?",
-          "name": "auto_name__12"
         }
       ],
       "legend": "Person served or notified",
@@ -89,5 +86,5 @@
       "repeatableMaximum": 10
     }
   ],
-  "url": "respondents-served"
+  "url": "served-notified"
 }

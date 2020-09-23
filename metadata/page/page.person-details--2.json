@@ -15,7 +15,7 @@
         }
       },
       "label": "Full name",
-      "name": "first-name"
+      "name": "person-full-name"
     }
   ],
   "heading": "The person you're applying to be a deputy for",
