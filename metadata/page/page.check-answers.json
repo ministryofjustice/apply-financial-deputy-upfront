@@ -1,9 +1,8 @@
 {
   "_id": "page.check-answers",
   "_type": "page.summary",
-  "actionType": "custom-1",
-  "sendBody": "By submitting your application you agree that the information is correct and complete as far as you know.\r\n\r\n\r\n\r\n",
+  "actionType": "custom-2",
+  "sendBody": "By sending your application you agree that the information is correct and complete as far as you know.",
   "sendHeading": "Statement of truth",
-  "show": true,
   "url": "check-answers"
 }

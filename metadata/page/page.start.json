@@ -22,8 +22,8 @@
     "page.witness-statement-form",
     "page.upload-cop-24",
     "page.confirmation",
-    "page.check-answers",
-    "page.application-sent"
+    "page.application-sent",
+    "page.check-answers"
   ],
   "url": "/"
 }

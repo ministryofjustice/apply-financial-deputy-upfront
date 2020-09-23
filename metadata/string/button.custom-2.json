@@ -2,6 +2,6 @@
   "_id": "button.custom-2",
   "_type": "string",
   "description": "Custom button 2",
-  "value": "Accept and continue",
+  "value": "Agree and send application",
   "value:cy": ""
 }
