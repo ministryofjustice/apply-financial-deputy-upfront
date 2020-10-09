@@ -19,7 +19,7 @@
           "value": "no"
         }
       ],
-      "legend": "Was there anyone you were not able to serve or notify?",
+      "legend": "Was there anyone you were not able to notify?",
       "name": "not-served-notified"
     }
   ],

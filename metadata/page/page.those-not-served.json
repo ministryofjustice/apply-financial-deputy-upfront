@@ -22,17 +22,17 @@
         {
           "_id": "page.those-not-served--fieldset--textarea.auto_name__8",
           "_type": "textarea",
-          "hint": "Give as much detail as you can, including any steps you've taken to try serving or notifying this person",
-          "label": "Why weren't you able to serve or notify the person?",
+          "hint": "Give as much detail as you can, including any steps you've taken to try notifying this person",
+          "label": "Why weren't you able to notify the person?",
           "name": "not-served-reason"
         }
       ],
-      "legend": "Person to be served or notified",
+      "legend": "Person to be notified",
       "namespace": "namespace_auto__2",
       "repeatable": true,
       "repeatableAdd": "Add another person",
       "repeatableDelete": "Remove person",
-      "repeatableHeading": "People you were not able to serve or notify",
+      "repeatableHeading": "People you were not able to notify",
       "repeatableMaximum": 10
     }
   ],
