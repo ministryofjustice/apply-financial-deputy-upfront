@@ -34,7 +34,7 @@
           "$fields": true,
           "_id": "page.those-served--fieldset--date.auto_name__4",
           "_type": "date",
-          "legend": "Date served or notified",
+          "legend": "Date notified",
           "name": "date-served"
         },
         {
@@ -72,17 +72,17 @@
               "value": "no-response"
             }
           ],
-          "legend": "Does the person who was served or notified support the application?",
+          "legend": "Does the person who was notified support the application?",
           "name": "support-application"
         }
       ],
-      "legend": "Person served or notified",
+      "legend": "Person notified",
       "namespace": "namespace_auto__1",
       "repeatable": true,
       "repeatableAdd": "Add another person",
       "repeatableDelete": "Remove person",
-      "repeatableHeading": "People you have served and notified about the application",
-      "repeatableLede": "The court might contact any of the people you've listed to confirm that you've served or notified them.",
+      "repeatableHeading": "People you have notified about the application",
+      "repeatableLede": "The court might contact any of the people you've listed to confirm that you've notified them.",
       "repeatableMaximum": 10
     }
   ],
