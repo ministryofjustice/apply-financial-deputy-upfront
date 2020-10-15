@@ -21,6 +21,7 @@
     "page.applicant-name-email",
     "page.pba-number",
     "page.person-views",
+    "page.acknowledgement-of-notification",
     "page.those-served",
     "page.consent",
     "page.serve-respondents",
@@ -35,8 +36,7 @@
     "page.witness-statement-form",
     "page.upload-cop-24",
     "page.check-answers",
-    "page.application-sent",
-    "page.acknowledgement-of-notification"
+    "page.application-sent"
   ],
   "url": "/"
 }
