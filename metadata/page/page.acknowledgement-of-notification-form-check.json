@@ -1,0 +1,28 @@
+{
+  "_id": "page.acknowledgement-of-notification-form-check",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.acknowledgement-of-notification-form-check--radios.auto_name__3",
+      "_type": "radios",
+      "hint": "",
+      "items": [
+        {
+          "_id": "page.acknowledgement-of-notification-form-check--radios.auto_name__3--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.acknowledgement-of-notification-form-check--radios.auto_name__3--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "Do you have a completed acknowledgement of notification form from the person who might lack mental capacity?",
+      "name": "auto_name__3"
+    }
+  ],
+  "url": "acknowledgement-of-notification-form-check"
+}

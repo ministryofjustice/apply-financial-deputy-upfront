@@ -5,14 +5,14 @@
     {
       "_id": "page.acknowledgement-of-notification--upload.auto_name__2",
       "_type": "upload",
-      "label": "Upload an acknowledgement of notification form from the person who might lack mental capacity",
+      "label": "Upload a completed acknowledgement of notification from the person who might lack mental capacity",
       "name": "auto_name__2"
     }
   ],
   "show": {
-    "identifier": "person-views",
+    "identifier": "auto_name__3",
     "operator": "is",
-    "value": "yes"
+    "value": "auto_value__1"
   },
   "steps": [
     "page.acknowledgement-of-notification-check"
