@@ -6,7 +6,7 @@
     {
       "_id": "page.start--inset",
       "_type": "inset",
-      "html": "Before using this form, you need to have notified all the people who might have an interest in this application."
+      "html": "Before using this form, you need to have notified the person who might lack mental capacity, as well as all the other people who might have an interest in this application."
     },
     {
       "_id": "page.start--content",
