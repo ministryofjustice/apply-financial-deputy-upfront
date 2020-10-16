@@ -24,5 +24,10 @@
       "name": "auto_name__3"
     }
   ],
+  "show": {
+    "identifier": "person-views",
+    "operator": "is",
+    "value": "yes"
+  },
   "url": "acknowledgement-of-notification-form-check"
 }
