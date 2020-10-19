@@ -81,7 +81,7 @@
       "repeatable": true,
       "repeatableAdd": "Add another person",
       "repeatableDelete": "Remove person",
-      "repeatableHeading": "People you have notified about the application",
+      "repeatableHeading": "Other people you have notified about the application",
       "repeatableLede": "The court might contact any of the people you've listed to confirm that you've notified them.",
       "repeatableMaximum": 10
     }
