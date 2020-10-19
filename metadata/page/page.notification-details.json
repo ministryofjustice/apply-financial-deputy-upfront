@@ -6,26 +6,26 @@
       "_id": "page.notification-details--date.auto_name__6",
       "_type": "date",
       "legend": "Date notified",
-      "name": "auto_name__6"
+      "name": "person_date_notified"
     },
     {
       "_id": "page.notification-details--textarea.auto_name__7",
       "_type": "textarea",
       "label": "What steps did you take to explain the application to the person who might lack mental capacity?",
-      "name": "auto_name__7"
+      "name": "explain_application_steps"
     },
     {
       "_id": "page.notification-details--textarea.auto_name__8",
       "_type": "textarea",
       "label": "How did the person respond when you explained the application to them?",
-      "name": "auto_name__8"
+      "name": "application_person_response"
     }
   ],
   "heading": "Notification details for the person who might lack mental capacity",
   "show": {
-    "identifier": "auto_name__4",
+    "identifier": "notified_person",
     "operator": "is",
-    "value": "auto_value__1"
+    "value": "yes"
   },
   "url": "notification-details"
 }
