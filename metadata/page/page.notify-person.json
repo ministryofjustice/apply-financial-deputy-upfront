@@ -10,11 +10,10 @@
           "_id": "page.notify-person--radios.auto_name__4--radio.auto_value__1",
           "_type": "radio",
           "conditionalComponent": {
-            "_id": "page.notify-person--radios.auto_name__4--radio.auto_value__1--textarea.auto_name__6",
+            "_id": "page.notify-person--radios.auto_name__4--radio.auto_value__1--textarea.auto_name__7",
             "_type": "textarea",
             "label": "What steps did you take to explain the application to the person who might lack mental capacity?",
-            "name": "auto_name__6",
-            "repeatable": false
+            "name": "auto_name__7"
           },
           "label": "Yes",
           "value": "auto_value__1"
