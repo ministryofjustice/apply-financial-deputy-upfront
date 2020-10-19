@@ -25,9 +25,9 @@
     }
   ],
   "show": {
-    "identifier": "person-views",
+    "identifier": "auto_name__4",
     "operator": "is",
-    "value": "yes"
+    "value": "auto_value__1"
   },
   "url": "acknowledgement-of-notification-form-check"
 }

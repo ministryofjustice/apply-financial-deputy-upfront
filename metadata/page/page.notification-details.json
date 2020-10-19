@@ -1,0 +1,31 @@
+{
+  "_id": "page.notification-details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.notification-details--date.auto_name__6",
+      "_type": "date",
+      "legend": "Date notified",
+      "name": "auto_name__6"
+    },
+    {
+      "_id": "page.notification-details--textarea.auto_name__7",
+      "_type": "textarea",
+      "label": "What steps did you take to explain the application to the person who might lack mental capacity?",
+      "name": "auto_name__7"
+    },
+    {
+      "_id": "page.notification-details--textarea.auto_name__8",
+      "_type": "textarea",
+      "label": "How did the person respond when you explained the application to them?",
+      "name": "auto_name__8"
+    }
+  ],
+  "heading": "Notification details for the person who might lack mental capacity",
+  "show": {
+    "identifier": "auto_name__4",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
+  "url": "notification-details"
+}
