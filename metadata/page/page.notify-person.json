@@ -1,0 +1,41 @@
+{
+  "_id": "page.notify-person",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.notify-person--radios.auto_name__4",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.notify-person--radios.auto_name__4--radio.auto_value__1",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.notify-person--radios.auto_name__4--radio.auto_value__1--textarea.auto_name__6",
+            "_type": "textarea",
+            "label": "What steps did you take to explain the application to the person who might lack mental capacity?",
+            "name": "auto_name__6",
+            "repeatable": false
+          },
+          "label": "Yes",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.notify-person--radios.auto_name__4--radio.auto_value__1--2",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.notify-person--radios.auto_name__4--radio.auto_value__1--2--textarea.auto_name__5",
+            "_type": "textarea",
+            "hint": "Give as much detail as you can, including any steps you've taken to try notifying this person",
+            "label": "Give details",
+            "name": "auto_name__5"
+          },
+          "label": "No",
+          "value": "auto_value__1"
+        }
+      ],
+      "legend": "Have you notified the person who might lack mental capacity?",
+      "name": "auto_name__4"
+    }
+  ],
+  "url": "notify-person"
+}
