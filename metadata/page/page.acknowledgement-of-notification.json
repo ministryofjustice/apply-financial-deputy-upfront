@@ -10,9 +10,9 @@
     }
   ],
   "show": {
-    "identifier": "auto_name__3",
+    "identifier": "person-acknowledgement-notification",
     "operator": "is",
-    "value": "auto_value__1"
+    "value": "yes"
   },
   "steps": [
     "page.acknowledgement-of-notification-check"
