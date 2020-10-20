@@ -20,7 +20,7 @@
           "value": "no"
         }
       ],
-      "legend": "Has the person who might lack mental capacity been able to provide you with a completed acknowledgement of notification?",
+      "legend": "Has the person who might lack mental capacity been able to provide you with a completed acknowledgment of notification?",
       "name": "person-acknowledgement-notification"
     }
   ],
@@ -29,5 +29,5 @@
     "operator": "is",
     "value": "yes"
   },
-  "url": "acknowledgement-of-notification-form-check"
+  "url": "acknowledgment-of-notification-form-check"
 }
