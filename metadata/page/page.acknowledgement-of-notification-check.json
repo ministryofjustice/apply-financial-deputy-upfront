@@ -1,5 +1,5 @@
 {
   "_id": "page.acknowledgement-of-notification-check",
   "_type": "page.uploadCheck",
-  "url": "check-acknowledgment-notification-person"
+  "url": "/check-person-acknowledgment-of-notification-upload"
 }
