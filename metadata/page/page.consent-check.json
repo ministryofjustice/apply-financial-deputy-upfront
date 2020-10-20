@@ -2,5 +2,5 @@
   "_id": "page.consent-check",
   "_type": "page.uploadCheck",
   "heading": "Check your completed acknowledgment of notification upload",
-  "url": "/check-cop5-upload"
+  "url": "/check-completed-acknowledgment-of-notification-upload"
 }
