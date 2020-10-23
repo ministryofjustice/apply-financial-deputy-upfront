@@ -17,7 +17,7 @@
     {
       "_id": "page.notification-details--textarea.auto_name__8",
       "_type": "textarea",
-      "label": "How did the person respond when you explained the application to them?",
+      "label": "How did the person respond when the application was explained to them?",
       "name": "application_person_response"
     }
   ],
