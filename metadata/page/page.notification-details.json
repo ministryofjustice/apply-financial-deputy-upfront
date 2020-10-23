@@ -11,7 +11,7 @@
     {
       "_id": "page.notification-details--textarea.auto_name__7",
       "_type": "textarea",
-      "label": "What steps did you take to explain the application to the person who might lack mental capacity?",
+      "label": "What steps were taken to explain the application to the person who might lack mental capacity?",
       "name": "explain_application_steps"
     },
     {
