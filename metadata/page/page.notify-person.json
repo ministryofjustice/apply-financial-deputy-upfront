@@ -18,7 +18,7 @@
           "conditionalComponent": {
             "_id": "page.notify-person--radios.auto_name__4--radio.auto_value__1--2--textarea.auto_name__5",
             "_type": "textarea",
-            "hint": "Give as much detail as you can, including any steps taken to try notifying this person",
+            "hint": "Give as much detail as you can, including any steps taken to try notifying the person",
             "label": "Give details",
             "name": "person_notification_details"
           },
