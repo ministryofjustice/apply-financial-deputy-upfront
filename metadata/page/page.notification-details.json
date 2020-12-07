@@ -9,6 +9,18 @@
       "name": "person_date_notified"
     },
     {
+      "_id": "page.notification-details--text.auto_name__4",
+      "_type": "text",
+      "label": "Who notified the person who might lack mental capacity in person?",
+      "name": "application-who-notified"
+    },
+    {
+      "_id": "page.notification-details--text.auto_name__5",
+      "_type": "text",
+      "label": "What is their relationship to the person who might lack mental capacity?",
+      "name": "application-notified-relationship"
+    },
+    {
       "_id": "page.notification-details--textarea.auto_name__7",
       "_type": "textarea",
       "label": "What steps were taken to explain the application to the person who might lack mental capacity?",

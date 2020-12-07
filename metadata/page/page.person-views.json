@@ -12,7 +12,7 @@
           "conditionalComponent": {
             "_id": "page.person-views--radios.auto_name__10--radio.auto_value__6--textarea.auto_name__11",
             "_type": "textarea",
-            "label": "Give as much detail as you can",
+            "label": "Give as much detail as you can, including any wishes and feelings they expressed regarding the application.   ",
             "name": "person-view-details"
           },
           "label": "Yes",
