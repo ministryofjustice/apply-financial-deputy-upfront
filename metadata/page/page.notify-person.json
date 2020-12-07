@@ -26,7 +26,7 @@
           "value": "no"
         }
       ],
-      "legend": "Have you notified the person who might lack mental capacity?",
+      "legend": "Has the person who might lack mental capacity been notified in person?",
       "name": "notified_person"
     }
   ],
