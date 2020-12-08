@@ -12,13 +12,23 @@
       "_id": "page.notification-details--text.auto_name__4",
       "_type": "text",
       "label": "Who notified the person who might lack mental capacity in person?",
-      "name": "application-who-notified"
+      "name": "application-who-notified",
+      "show": {
+        "identifier": "auto_name__3",
+        "operator": "is",
+        "value": "auto_value__2"
+      }
     },
     {
       "_id": "page.notification-details--text.auto_name__5",
       "_type": "text",
       "label": "What is their relationship to the person who might lack mental capacity?",
-      "name": "application-notified-relationship"
+      "name": "application-notified-relationship",
+      "show": {
+        "identifier": "auto_name__3",
+        "operator": "is",
+        "value": "auto_value__2"
+      }
     },
     {
       "_id": "page.notification-details--textarea.auto_name__7",
