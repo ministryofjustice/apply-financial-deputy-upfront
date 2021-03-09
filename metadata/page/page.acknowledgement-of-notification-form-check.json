@@ -25,9 +25,19 @@
     }
   ],
   "show": {
-    "identifier": "notified_person",
-    "operator": "is",
-    "value": "yes"
+    "any": [
+      {
+        "identifier": "notified_person",
+        "operator": "is",
+        "value": "yes"
+      },
+      {
+        "identifier": "auto_name__3",
+        "operator": "is",
+        "value": "auto_value__2"
+      }
+    ],
+    "conditionsType": "any"
   },
   "url": "person-acknowledgment-of-notification"
 }

@@ -29,5 +29,20 @@
       "name": "person-views"
     }
   ],
+  "show": {
+    "any": [
+      {
+        "identifier": "notified_person",
+        "operator": "is",
+        "value": "no"
+      },
+      {
+        "identifier": "auto_name__3",
+        "operator": "is",
+        "value": "auto_value__1"
+      }
+    ],
+    "conditionsType": "any"
+  },
   "url": "person-views"
 }
