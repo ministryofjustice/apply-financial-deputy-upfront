@@ -24,7 +24,7 @@
           "value": "no"
         }
       ],
-      "legend": "Do you want to include an application notice for an urgent interim order (COP9)?",
+      "legend": "Do you want to include an application notice for an interim order (COP9)?",
       "name": "urgent-interim-order"
     }
   ],

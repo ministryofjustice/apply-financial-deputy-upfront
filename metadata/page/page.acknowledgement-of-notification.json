@@ -10,9 +10,34 @@
     }
   ],
   "show": {
-    "identifier": "person-acknowledgement-notification",
-    "operator": "is",
-    "value": "yes"
+    "any": [
+      {
+        "any": [
+          {
+            "identifier": "person-acknowledgement-notification",
+            "operator": "is",
+            "value": "yes"
+          }
+        ],
+        "conditionsType": "any"
+      },
+      {
+        "all": [
+          {
+            "identifier": "auto_name__3",
+            "operator": "is",
+            "value": "auto_value__2"
+          },
+          {
+            "identifier": "person-acknowledgement-notification",
+            "operator": "is",
+            "value": "no"
+          }
+        ]
+      },
+      {}
+    ],
+    "conditionsType": "any"
   },
   "steps": [
     "page.acknowledgement-of-notification-check"
