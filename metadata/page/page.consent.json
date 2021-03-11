@@ -5,7 +5,7 @@
     {
       "_id": "page.consent--upload.auto_name__1",
       "_type": "upload",
-      "hint": "This is required for each person you have notified about the application. You will need to upload one file at a time.",
+      "hint": "Upload all the forms you have received back from the people you have notified. You will need to upload one file at a time.",
       "label": "Upload your completed acknowledgment of notification forms received from the other people you have notified about the application",
       "maxFiles": 10,
       "minFiles": 1,
