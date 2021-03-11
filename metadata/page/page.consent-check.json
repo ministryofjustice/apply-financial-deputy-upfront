@@ -1,6 +1,6 @@
 {
   "_id": "page.consent-check",
   "_type": "page.uploadCheck",
-  "heading": "Check your completed acknowledgment of notification forms received from the other people you have notified about the application",
+  "heading": "Check your upload",
   "url": "/check-completed-acknowledgment-of-notification-upload"
 }
