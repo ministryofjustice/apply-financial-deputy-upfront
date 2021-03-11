@@ -6,7 +6,7 @@
       "_id": "page.consent--upload.auto_name__1",
       "_type": "upload",
       "hint": "",
-      "label": "Upload your completed acknowledgment of notification",
+      "label": "Upload your completed acknowledgment of notification forms received from the other people you have notified about the application",
       "maxFiles": 10,
       "minFiles": 1,
       "name": "auto_name__1"
