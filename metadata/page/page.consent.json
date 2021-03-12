@@ -13,7 +13,7 @@
     }
   ],
   "show": {
-    "identifier": "namespace_auto__1[*].support-application",
+    "identifier": "support-application",
     "operator": "is",
     "value": "no-response"
   },
