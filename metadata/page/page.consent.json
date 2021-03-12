@@ -12,6 +12,11 @@
       "name": "auto_name__1"
     }
   ],
+  "show": {
+    "identifier": "namespace_auto__1[*].support-application",
+    "operator": "is",
+    "value": "no-response"
+  },
   "steps": [
     "page.consent-check",
     "page.consent-summary"
