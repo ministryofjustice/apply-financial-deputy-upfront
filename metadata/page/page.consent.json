@@ -13,9 +13,9 @@
     }
   ],
   "show": {
-    "identifier": "support-application",
+    "identifier": "auto_name__5",
     "operator": "is",
-    "value": "no-response"
+    "value": "auto_value__2"
   },
   "steps": [
     "page.consent-check",
